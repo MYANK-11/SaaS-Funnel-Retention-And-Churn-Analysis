@@ -1,4 +1,4 @@
-## 📊 SaaS Funnel Analytics — End-to-End SQL Project
+## 📊 SaaS Funnel, Retention & Churn Analysis — End-to-End SQL Project
 
 A complete end-to-end analytics pipeline built for a hypothetical SaaS product.
 This project demonstrates data ingestion, cleaning, modeling, and advanced SQL analysis including Funnel, Retention, and Churn — the three core metrics evaluated in real SaaS companies.
@@ -64,7 +64,8 @@ Analytics Layer — SQL models for funnel, retention & churn
 │   ├── 03_schema_modeling.sql
 │   ├── 04_funnel_analysis.sql
 │   ├── 05_retention_analysis.sql
-│   └── 06_churn_analysis.sql
+│   ├── 06_churn_analysis.sql
+|   └── 07_funnel_segmentation
 │
 ├── reports/
     ├── SaaS Funnel Analytics Report.docx       
